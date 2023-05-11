@@ -1,0 +1,14 @@
+html, body, #root {
+    height: 100%;
+    text-align: center;
+    font-size: x-large;
+    background-image: linear-gradient(rgb(206, 41, 65), rgb(94, 149, 86), rgb(81, 67, 187));
+}
+
+a {
+    color: blue;
+}
+
+input, select, button {
+    font-size: x-large;
+}
